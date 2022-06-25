@@ -1,6 +1,9 @@
 # qrcode-generator-simple
 Simple QR Code Generator
 
+- node.js
+npm install --save qrcode
+
 Referensi: Youtube Dea Afrizal
 
 Screenshot:
